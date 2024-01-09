@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @CorruptionSniper
 - 👀 I’m interested in Mathematics and Computer Science.
 - 🌱 I’m currently learning programming in Java, learning how to make Minecfraft plugins using Spigot, and Python at school.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 CorruptionSniper/CorruptionSniper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
